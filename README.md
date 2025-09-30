@@ -21,7 +21,7 @@ The work was developed as part of a Software Engineering course project, split i
 
 ## 📂 Repository Structure
 - `sprint1/` – Initial setup, basic Python-to-WCPS translation
-- `sprint2/` – Extended operators, lazy evaluation, UML diagrams
+- `sprint2/` – Extended operators, lazy evaluation
 - `sprint3/` – Testing framework, Jupyter notebook, final polishing 
 
 ---
