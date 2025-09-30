@@ -6,7 +6,7 @@ The work was developed as part of a Software Engineering course project, split i
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 - **Goal:** Allow Python operations on datacubes to be translated into WCPS queries, executed server-side for efficient data processing.
 - **Why:** WCPS (standardized by OGC & ISO) is powerful for datacube queries, but integrating it directly into Python workflows reduces complexity and improves performance.
 - **Key Features:**
@@ -19,14 +19,14 @@ The work was developed as part of a Software Engineering course project, split i
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 - `Sprint1/` – Initial setup, basic Python-to-WCPS translation
 - `Sprint2/` – Extended operators, lazy evaluation
 - `Sprint3/` – Testing framework, Jupyter notebook, final polishing 
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 - Python 3
 - WCPS (OGC standard)
 - UML Diagrams
@@ -34,7 +34,7 @@ The work was developed as part of a Software Engineering course project, split i
 
 
 
-## 📖 References
+## References
 - https://earthserver.eu/wcs/
 - https://standards.rasdaman.com/
 
