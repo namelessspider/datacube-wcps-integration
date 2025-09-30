@@ -1,0 +1,17 @@
+[project]
+name = "wdc"
+version = "0.0.2"
+authors = [
+  { name="Bakhshi Manzur", email="bmanzur@constructor.university" },
+  { name="Matilda Milisavljevic", email="mmilisavljevic@constructor.university" },
+]
+description = "A package for handling and making WCPS queries"
+readme = "README.md"
+requires-python = ">=3.11"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/Constructor-Uni-SE-non-official/Sprint2_Pair39"
