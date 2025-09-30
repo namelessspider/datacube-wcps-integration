@@ -1,6 +1,3 @@
-# datacube-wcps-integration
-Transparent WCPS query generation from Python for efficient datacube operations.
-
 # Datacube WCPS Integration
 
 This project implements a **transparent WCPS (Web Coverage Processing Service) query generator** directly from Python code, enabling seamless datacube operations between Python and WCPS servers.  
